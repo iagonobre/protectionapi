@@ -14,7 +14,7 @@ const MaskSchema = new mongoose.Schema({
     type: String,
   },
   status: {
-    type: String,
+    type: Number,
   },
 });
 
